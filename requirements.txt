@@ -1,0 +1,6 @@
+datasets
+transformers
+sentence-transformers
+beir
+numpy
+datasets
